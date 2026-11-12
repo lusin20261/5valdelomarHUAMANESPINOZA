@@ -1,0 +1,8 @@
+m = input("ingresa el numero: ")
+n = input("ingresa el numero: ")
+m = int(m)
+n = int(n)
+print("multiplicacion: ",n*m)
+print("division: ",n/m)
+print("suma: ",n+m)
+print("resta: ",n-m)
